@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: ootd.png
+alt: image-alt
+title: 每日穿搭
+description: 根据天气、日程提供每日穿搭推荐，让你每天轻松穿搭，支持多人OOTD。 
+---

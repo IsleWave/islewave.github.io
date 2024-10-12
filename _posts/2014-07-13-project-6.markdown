@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: tryon.png
+alt: image-alt
+title: 虚拟试穿
+description: 预览不同搭配效果，试穿虚拟衣物，轻松找到最适合的搭配。 
+---

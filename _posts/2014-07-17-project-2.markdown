@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: designer.png
+alt: image-alt
+title: 灵活搭配
+description: AI技术识别衣物颜色，帮助你找到最适合的搭配，支持多人/团队搭配。
+---

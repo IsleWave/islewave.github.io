@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: wardrobe.png
+alt: image-alt
+title: 智能衣橱
+description: 帮助你管理所有的衣物、鞋子、配饰，自动分类，支持按颜色、季节、场合筛选。 
+---

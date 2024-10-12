@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 5
+date: 2014-07-14
+img: share.png
+alt: image-alt
+title: 穿搭分享
+description: 轻松打卡并分享你的穿搭，支持多种模版。
+---
